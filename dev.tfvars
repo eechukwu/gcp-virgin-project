@@ -2,7 +2,7 @@ gcp_location = "europe-west1"
 
 prefix = "virgin"
 
-gcp_project_id = ""
+gcp_project_id = "" //Add your GCP Project ID Here 
 
 service_account_display_name = "virgin media task account"
 

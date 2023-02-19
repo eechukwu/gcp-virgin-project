@@ -19,7 +19,7 @@ The repository requires an existing Google Cloud Account.
 The repository  allows the resources to be extensively customised using dev.tfvars file.[`dev.tfvars`](dev.tfvars).
 The repository itself is located in the root of this repository, and is designed to be used as part of a larger Terraform project.
 
-NOTE: Please remember to update the gcp_project_id in the [`dev.tfvars`](dev.tfvars) with you Project ID. 
+NOTE: Please remember to update the gcp_project_id in the dev.tfvars file.[`dev.tfvars`](dev.tfvars) with you Project ID. 
 
 ```
 module "cluster" {

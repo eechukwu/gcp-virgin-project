@@ -44,7 +44,7 @@ table_dataset_labels = {
 
 bigquery_role_assignment = {         # dataset name
   role = "roles/bigquery.dataEditor" # gcp role
-  user = "outlandersafari@gmail.com" # google email address of user
+  user = "emailaddress@gmail.com" # google email address of user
 }
 
 master_authorized_networks_cidr_blocks = [

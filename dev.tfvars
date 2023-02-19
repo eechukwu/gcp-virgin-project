@@ -8,7 +8,7 @@ service_account_display_name = "virgin media task account"
 
 service_account_description = "Single Account Description"
 
-service_accounts_name = ["virginmedia-task-account"]
+service_accounts_name = ["media-task-account"]
 
 dataset_id = "virginmediadataset"
 

@@ -1,4 +1,4 @@
-gcp_location = "europe-west1"
+gcp_location = "europe-west2"
 
 prefix = "virgin"
 

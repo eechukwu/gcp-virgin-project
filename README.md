@@ -36,7 +36,7 @@ module "google-bigquery" {
 ```
 
 ```
-Run this command from the root folder after amending the [`dev.tfvars`](dev.tfvars) to suit your needs.
+Run these command from the root folder after amending the dev.tfvars [`dev.tfvars`](dev.tfvars) to suit your needs.
 terraform init    
 terraform plan -var-file=dev.tfvars  
 terraform validate
